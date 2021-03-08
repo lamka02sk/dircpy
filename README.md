@@ -3,6 +3,9 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/woelper/dircpy/blob/master/LICENSE)
 [![Docs Status](https://docs.rs/dircpy/badge.svg)](https://docs.rs/dircpy)
 ![build](https://github.com/woelper/dircpy/workflows/build/badge.svg)
+
+**Runs on the stable channel**
+
 A library to recursively copy directories, with some convenience added.
 
 

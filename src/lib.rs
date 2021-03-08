@@ -1,13 +1,9 @@
-#![feature(test)]
 use log::*;
 use std::fs::copy;
 use std::io::{Error, ErrorKind};
 use std::path::{Path, PathBuf};
 use std::time::SystemTime;
 use walkdir::WalkDir;
-
-#[cfg(test)]
-mod tests;
 
 #[derive(Debug, Clone)]
 /// Recursively copy a directory from a to b.

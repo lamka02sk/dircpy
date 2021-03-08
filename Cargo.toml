@@ -1,11 +1,11 @@
 [package]
-name = "dircpy"
+name = "dircpy-stable"
 version = "0.3.5"
-authors = ["Johann Woelper <woelper@gmail.com>"]
+authors = ["Johann Woelper <woelper@gmail.com>", "lamka02sk <lamka02sk@gmail.com>"]
 edition = "2018"
 license = "MIT"
-description = "Copy directories recursively with flexible options."
-repository = "https://github.com/woelper/dircpy/"
+description = "Copy directories recursively with flexible options. Runs on the stable channel."
+repository = "https://github.com/lamka02sk/dircpy/"
 keywords = ["copy", "recursive", "filesystem", "file"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
